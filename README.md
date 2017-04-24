@@ -1,2 +1,2 @@
 # poweroff
-Simples codes to poweroff computers in business rooms using google spreadsheets
+Simple code to poweroff computers in business rooms using google spreadsheets
