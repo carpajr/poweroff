@@ -1,5 +1,5 @@
 # poweroff
-Simple code to poweroff computers using google spreadsheets
+Simple code (very rudimentary) to poweroff computers using google spreadsheets
 
 # Context
 * A university's library that has about 60 computers
