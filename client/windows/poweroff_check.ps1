@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------+
 # Simplified POWEROFF
 
-$urlCmd = "http://www.biblioteca.iq.unesp.br/~shutdown/lab/index.htm"
+$urlCmd = "http://domain/infra/poweroff/lab/index.htm"
 $action = "on"
  
 # Verificando servidor
