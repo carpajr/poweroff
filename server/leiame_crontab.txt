@@ -1,0 +1,4 @@
+
+# m h  dom mon dow   command
+
+*/30 * * * * bash /opt/ctrl/poweroff_server.sh
